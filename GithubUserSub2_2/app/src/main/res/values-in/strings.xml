@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pengguna Github</string>
+    <string name="user">Pengguna</string>
+    <string name="name">Nama</string>
+    <string name="search_user">CARI PENGGUNA</string>
+    <string name="search">Cari</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="isi_username">isi nama pengguna</string>
+    <string name="isi_nama">isi nama</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_follower_fragment">Ini Fragment Follower</string>
+    <string name="content_fragment_following">Ini Fragment Following</string>
+    <string name="title_follower">Pengikut</string>
+    <string name="title_following">Mengikuti</string>
+    <string name="username_follower">Nama Pengguna Pengikut</string>
+    <string name="username_following">Nama Pengguna Mengikuti</string>
+    <string name="colon">:</string>
+    <string name="progress">tunggu ...</string>
+    <string name="title">Pengguna Github</string>
+    <string name="location">Lokasi</string>
+    <string name="isi_location">isi lokasi</string>
+    <string name="change_language_setting">Ubah Pengaturan Bahasa</string>
+    <string name="detail_user">Detail Pengguna</string>
+</resources>
